@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+  Array.new(4, "Hello!")
 def create_an_array
   
 end
