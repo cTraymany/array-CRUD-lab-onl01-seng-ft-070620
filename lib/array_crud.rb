@@ -1,9 +1,9 @@
 def create_an_empty_array
   []
 end
-  Array.new(4, "Hello!")
-def create_an_array
   
+def create_an_array
+  Array.new(4, "Hello!")
 end
 
 def add_element_to_end_of_array(array, element)
